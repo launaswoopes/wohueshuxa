@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://chairarai.kjyxf.com/sitemap.xml
